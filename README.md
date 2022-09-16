@@ -1,16 +1,14 @@
-# jb10
+# Local Storage & Video Flutter
 
-A new Flutter project.
+## Elevated button menu choosing upload via galerry or camera
+<img src="/sss/1.png" title="Screenshot 1"/>
 
-## Getting Started
+## Reading camera capture
+<img src="/sss/2.png" title="Screenshot 2"/>
 
-This project is a starting point for a Flutter application.
+## Playing video by api network
+<img src="/sss/3.png" title="Screenshot 3"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Local Storage & Video Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Local storage, image picker, video player dart
